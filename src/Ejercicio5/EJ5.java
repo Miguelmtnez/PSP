@@ -17,7 +17,7 @@ public class EJ5 {
 			}
 
 		final int periodoMs = segundos * 1000;
-		final java.nio.file.Path ruta = java.nio.file.Paths.get("saludos.txt");
+		final java.nio.file.Path ruta = java.nio.file.Paths.get("src", "Ejercicio5", "saludos.txt");
 
 		Thread hilo = new Thread(() -> {
 			try (java.io.BufferedWriter writer = java.nio.file.Files.newBufferedWriter(
