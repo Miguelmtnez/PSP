@@ -1,0 +1,15 @@
+C:\Users\migue\PSP\src\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.exe
+C:\Users\migue\PSP\src\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.deps.json
+C:\Users\migue\PSP\src\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.runtimeconfig.json
+C:\Users\migue\PSP\src\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.dll
+C:\Users\migue\PSP\src\Ejercicio12\bin\Debug\net8.0-windows\Ejercicio12.pdb
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.AssemblyInfoInputs.cache
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.AssemblyInfo.cs
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.sourcelink.json
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.dll
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\refint\Ejercicio12.dll
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.pdb
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\Ejercicio12.genruntimeconfig.cache
+C:\Users\migue\PSP\src\Ejercicio12\obj\Debug\net8.0-windows\ref\Ejercicio12.dll
