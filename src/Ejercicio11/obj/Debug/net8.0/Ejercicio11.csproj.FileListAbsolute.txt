@@ -1,0 +1,15 @@
+C:\Users\migue\PSP\src\Ejercicio11\bin\Debug\net8.0\Ejercicio11.exe
+C:\Users\migue\PSP\src\Ejercicio11\bin\Debug\net8.0\Ejercicio11.deps.json
+C:\Users\migue\PSP\src\Ejercicio11\bin\Debug\net8.0\Ejercicio11.runtimeconfig.json
+C:\Users\migue\PSP\src\Ejercicio11\bin\Debug\net8.0\Ejercicio11.dll
+C:\Users\migue\PSP\src\Ejercicio11\bin\Debug\net8.0\Ejercicio11.pdb
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\Ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\Ejercicio11.AssemblyInfoInputs.cache
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\Ejercicio11.AssemblyInfo.cs
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\Ejercicio11.sourcelink.json
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\Ejercicio11.dll
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\refint\Ejercicio11.dll
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\Ejercicio11.pdb
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\Ejercicio11.genruntimeconfig.cache
+C:\Users\migue\PSP\src\Ejercicio11\obj\Debug\net8.0\ref\Ejercicio11.dll
